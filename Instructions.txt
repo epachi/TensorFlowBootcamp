@@ -1,0 +1,18 @@
+1. set PATH to include conda
+e.g. C:\Users\User\Anaconda3\Scripts
+
+2. conda env create -f tfdl_env.yml
+
+In command prompt, not bash
+3. activate tfdeeplearning 
+
+(ONLY WHEN FINISH USING THE SESSION)   4. deactivate
+
+5. jupyter notebook (if does not bring up a browswer copy and paste from the console in the browser, something like:
+
+http://localhost:8888/?token=4d5a.....
+
+
+6. Tensorflow playground
+
+playground.tensorflow.org...
